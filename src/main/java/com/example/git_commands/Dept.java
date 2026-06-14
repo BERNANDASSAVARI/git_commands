@@ -10,3 +10,7 @@ public class Dept {
   public String getName() {
     return "Information Technology";
 }
+  public String getParentName() {
+    return "JP & IA";
+  }
+}
