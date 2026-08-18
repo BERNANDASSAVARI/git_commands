@@ -1,4 +1,4 @@
 package com.example.git_commands;
 
-public class LeegalityActivities {
+public class Student {
 }
